@@ -13,3 +13,7 @@ Problem:
 
 def classify_students(list_of_students):
     #Write code here.
+    
+if __name__ == "__main__":
+    # Test your code here
+    print(classify_students([3,9,7,2,1,5,11,4]))
